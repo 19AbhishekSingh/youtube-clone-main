@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { YOUTUBE_POPULAR_VIDEOS } from "../utils/constants";
-import VideoCard, { AddVideoCard } from "./VideoCard";
+import VideoCard from "./VideoCard";
 import { Link, useSearchParams } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { getVideos } from "../utils/searchSlice";

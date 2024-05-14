@@ -32,7 +32,7 @@ const ButtonList = () => {
           />
         ))}
       </div>
-      {/* <Slider list={buttonList} /> */}
+      {<Slider list={buttonList} />}
     </div>
   );
 };

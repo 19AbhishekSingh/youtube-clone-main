@@ -8,9 +8,7 @@ import { MdOutlineClear } from "react-icons/md";
 
 import { IoMdNotificationsOutline } from "react-icons/io";
 import {
-  HAMBURGER_URL,
-  USER_ICON_URL,
-  YOUTUBE_ICON_URL,
+  
   YOUTUBE_SEARCH_API,
   GOOGLE_API_KEY,
   YOUTUBE_SEARCH_RESULTS_API,

@@ -1,5 +1,5 @@
 import React from "react";
-import { USER_ICON_URL } from "../utils/constants";
+
 
 const commentsData = [
   {
